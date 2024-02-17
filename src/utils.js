@@ -14,10 +14,6 @@ h1 {
   gap: 10px;
 }
 
-html {
-  overflow-y: scroll;
-}
-
 body {
   font-family: 'Times New Roman', Times, serif;
   overflow-y: scroll;
